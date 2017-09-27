@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85c2b275-7017-4b08-970e-194dda926d35" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Zadanie domowe nr 5/PodzielnaPrzezTrzy.class" afterPath="$PROJECT_DIR$/out/production/Zadanie domowe nr 5/PodzielnaPrzezTrzy.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PodzielnaPrzezTrzy.java" afterPath="$PROJECT_DIR$/src/PodzielnaPrzezTrzy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Hellos.java" afterPath="$PROJECT_DIR$/src/Hellos.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,21 +66,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PodzielnaPrzezTrzy.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PodzielnaPrzezTrzy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PodzielnaPrzezTrzy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hellos.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Hellos.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Hellos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="740">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -110,9 +111,9 @@
         <option value="$PROJECT_DIR$/src/Zad3.java" />
         <option value="$PROJECT_DIR$/src/UkladWspolrzednych.java" />
         <option value="$PROJECT_DIR$/src/EvenNumbers.java" />
-        <option value="$PROJECT_DIR$/src/Hellos.java" />
         <option value="$PROJECT_DIR$/src/PodzielnaPrzez3v2.java" />
         <option value="$PROJECT_DIR$/src/PodzielnaPrzezTrzy.java" />
+        <option value="$PROJECT_DIR$/src/Hellos.java" />
       </list>
     </option>
   </component>
@@ -122,7 +123,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1588" />
     <option name="width" value="1624" />
     <option name="height" value="1722" />
@@ -181,10 +182,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PodzielnaPrzezTrzy">
+  <component name="RunManager" selected="Application.Hellos">
     <configuration name="EvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="EvenNumbers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Zadanie domowe nr 5" />
+      <envs />
+    </configuration>
+    <configuration name="Hellos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Hellos" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -227,20 +242,6 @@
     <configuration name="UkladWspolrzednych" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="UkladWspolrzednych" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Zadanie domowe nr 5" />
-      <envs />
-    </configuration>
-    <configuration name="Zad3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Zad3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -334,19 +335,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Zad3" />
-      <item index="1" class="java.lang.String" itemvalue="Application.UkladWspolrzednych" />
-      <item index="2" class="java.lang.String" itemvalue="Application.EvenNumbers" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PodzielnaPrzezTrzy" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PodzielnaPrzez3v2" />
+      <item index="0" class="java.lang.String" itemvalue="Application.UkladWspolrzednych" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EvenNumbers" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PodzielnaPrzezTrzy" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PodzielnaPrzez3v2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Hellos" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PodzielnaPrzezTrzy" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PodzielnaPrzez3v2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EvenNumbers" />
-        <item index="3" class="java.lang.String" itemvalue="Application.UkladWspolrzednych" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Zad3" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Hellos" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PodzielnaPrzezTrzy" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PodzielnaPrzez3v2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EvenNumbers" />
+        <item index="4" class="java.lang.String" itemvalue="Application.UkladWspolrzednych" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +361,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506447409443</updated>
-      <workItem from="1506447413277" duration="22007000" />
+      <workItem from="1506447413277" duration="23070000" />
     </task>
     <task id="LOCAL-00001" summary="Poprawione zadanie nr 6">
       <created>1506508505080</created>
@@ -369,14 +370,22 @@
       <option name="project" value="LOCAL" />
       <updated>1506508505080</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Poprawione zadanie nr 6_2">
+      <created>1506508770468</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1506508770468</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22007000" />
+    <option name="totallyTimeSpent" value="23070000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="-14" width="3228" height="1738" extended-state="6" />
+    <frame x="1588" y="0" width="1624" height="1722" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -387,11 +396,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33105803" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14694534" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30345285" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -446,11 +455,12 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Poprawione zadanie nr 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Poprawione zadanie nr 6" />
+    <MESSAGE value="Poprawione zadanie nr 6_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Poprawione zadanie nr 6_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -495,14 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hellos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PodzielnaPrzez3v2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
@@ -513,8 +515,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PodzielnaPrzezTrzy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hellos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding />
         </state>
       </provider>
