@@ -17,7 +17,7 @@ public class PodzielnaPrzezTrzy {
             }
 
             System.out.println("Podaj liczbę");
-            guess.nextInt();
+            number = guess.nextInt();
         }
         System.out.println("Twoja liczba jest ok");
         guess.close();

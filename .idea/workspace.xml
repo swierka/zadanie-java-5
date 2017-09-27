@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85c2b275-7017-4b08-970e-194dda926d35" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hellos.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/PodzielnaPrzez3v2.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Zadanie domowe nr 5/PodzielnaPrzezTrzy.class" afterPath="$PROJECT_DIR$/out/production/Zadanie domowe nr 5/PodzielnaPrzezTrzy.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PodzielnaPrzezTrzy.java" afterPath="$PROJECT_DIR$/src/PodzielnaPrzezTrzy.java" />
     </list>
@@ -71,8 +68,8 @@
       <file leaf-file-name="PodzielnaPrzezTrzy.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PodzielnaPrzezTrzy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="592">
+              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -363,12 +360,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506447409443</updated>
-      <workItem from="1506447413277" duration="21738000" />
+      <workItem from="1506447413277" duration="22007000" />
     </task>
+    <task id="LOCAL-00001" summary="Poprawione zadanie nr 6">
+      <created>1506508505080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506508505080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21738000" />
+    <option name="totallyTimeSpent" value="22007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-14" y="-14" width="3228" height="1738" extended-state="6" />
@@ -440,7 +445,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Poprawione zadanie nr 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Poprawione zadanie nr 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -507,8 +513,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PodzielnaPrzezTrzy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="592">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding />
         </state>
       </provider>
