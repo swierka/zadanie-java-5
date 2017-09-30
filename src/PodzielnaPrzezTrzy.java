@@ -7,7 +7,7 @@ public class PodzielnaPrzezTrzy {
         System.out.println("Podaj liczbę");
         int number = guess.nextInt();
 
-        while (number < 100 || number > 200 || (number >= 100 && number <= 200 && number % 3 != 0)) {
+        while (number < 100 || number > 200 || number % 3 != 0) {
             if (number < 100) {
                 System.out.println("Podana liczba jest za mała");
             } else if (number >= 100 && number <= 200 && number % 3 != 0) {

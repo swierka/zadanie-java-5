@@ -8,15 +8,16 @@ public class UkladWspolrzednych {
         System.out.println("Podaj Y");
         int y = podajWspolrzedne.nextInt();
 
-
+        System.out.print("Punkt (" + x + ", " + y + ") znajduje się w ");
         if (x >0 && y > 0) {
-            System.out.println("Punkt (" + x + ", " + y + ") znajduje się w I ćwiartce układu współrzędnych.");
+            System.out.print("I");
         } else if (x <0 && y < 0) {
-            System.out.println("Punkt (" + x + ", " + y + ") znajduje się w III ćwiartce układu współrzędnych.");
+            System.out.print("III");
         } else if (x < 0 && y > 0) {
-            System.out.println("Punkt (" + x + ", " + y + ") znajduje się w IV ćwiartce układu współrzędnych.");
+            System.out.print("IV");
         } else{
-                System.out.println("Punkt (" + x + ", " + y + ") znajduje się w II ćwiartce układu współrzędnych.");
+                System.out.print("II");
             }
+        System.out.println(" ćwiartce układu współrzędnych.");
         }
     }
